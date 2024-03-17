@@ -1,2 +1,2 @@
 # Naming-Server
-Naming Microservice (Eureka Server)
+Naming Microservice (Eureka Server) (C-3)
